@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**dsapr/dsapr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**cckuailong/cckuailong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -15,4 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://github-readme-stats.vercel.app/api?username=dsapr)
+🌱 I’m currently learning some secret but interesting things.
+<p>
+  <img src="https://github-readme-stats.mrdulin.vercel.app/api?username=dsapr&show_icons=true&hide_border=true&theme=shades-of-purple">
+</p>
